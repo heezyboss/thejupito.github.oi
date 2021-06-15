@@ -1,0 +1,32 @@
+body {
+    background-image: url(laptop1.jpg);
+    background-size: 100% 145%;
+   
+
+}
+header{
+    
+}
+
+h3 {
+    transition: 0.5s;
+    margin: 130px;
+    
+}
+    h3:hover {
+               transform: scale(1.1);
+    }
+
+
+    .col-lg-12 {
+                transition: 0.5s;
+        
+    }
+    
+    .col-lg-12:hover {
+        transform:scale(1.1);
+    }
+    
+    button {
+        margin: 70px;
+    }
